@@ -10,7 +10,7 @@ get things up and running. It should be a good starting point for most projects.
 Special thanks to Antimodular Inc where I worked while writing this code.
 They have generously allowed it into the public domain.
 
-http://www.momentresearch.com/
+http://lozano-hemmer.com/
 
 Also thanks to AVT for their input and help testing.
 
